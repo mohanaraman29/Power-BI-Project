@@ -58,12 +58,14 @@
 - ####  Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 - ####  Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 
-
+## Snaps of Dashboard
 
 
 ![car overview](https://github.com/user-attachments/assets/b046c04b-0e48-4b53-b927-364985348fb7)  
 
 
 
+
+![car details](https://github.com/user-attachments/assets/8ba1b6dc-e77e-4fb6-ba10-d7aab02de821)
 
 
