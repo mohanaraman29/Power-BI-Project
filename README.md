@@ -61,7 +61,9 @@
 ## Snaps of Dashboard
 
 
-![car overview](https://github.com/user-attachments/assets/b046c04b-0e48-4b53-b927-364985348fb7)  
+![car ov](https://github.com/user-attachments/assets/15cbd5ab-ce25-4363-b668-60c5192758a1)
+
+
 
 
 
