@@ -69,7 +69,7 @@
 ![car details](https://github.com/user-attachments/assets/8ba1b6dc-e77e-4fb6-ba10-d7aab02de821)
 
 
-#Conclusion 
+# Conclusion 
 
 #### The Car Sales Dashboard in Power BI provides a clear and interactive way to monitor key sales metrics like YTD and MTD performance, YOY growth, and pricing trends. It uses visualizations like line charts, pie charts, and maps to uncover sales insights effectively. Detailed grids ensure all sales data is accessible for deeper analysis. This dashboard empowers data-driven decisions to optimize sales and drive business growth.
 
