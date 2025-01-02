@@ -8,10 +8,10 @@
 
 ### Tools and Technologies 
 
-#### - Power BI: Used for building interactive reports and dashboards.
-#### - DAX: Employed for creating custom measures to analyze sales growth, margins, and trends.
-#### - Excel : To Extract the Data from the Dataset.
-#### - Data Visualization: A variety of charts (bar, Piechart , and geographic maps) were used to present the data in a visually appealing way.
+- ####  Power BI: Used for building interactive reports and dashboards.
+- ####  DAX: Employed for creating custom measures to analyze sales growth, margins, and trends.
+- ####  Excel : To Extract the Data from the Dataset.
+- ####  Data Visualization: A variety of charts (bar, Piechart , and geographic maps) were used to present the data in a visually appealing way.
 
 ## What it Demonstrates
 
